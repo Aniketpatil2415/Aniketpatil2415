@@ -1,47 +1,70 @@
-<div align="center">
-
-<img width="100%" src="YOUR_BANNER" />
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=28&duration=2200&pause=500&color=2563EB&center=true&vCenter=true&width=900&lines=ANIKET+PATIL;FOUNDER+%40+FUSION+BYTE;SOFTWARE+ENGINEER;AI+SYSTEMS+%2B+FULL+STACK+%2B+ANDROID" />
-
-<br><br>
-
 <table>
 <tr>
-<td align="center" width="180">
 
-### 72+
+<td width="50%" valign="top">
 
-Repositories
+<h2>⚡ FLOW TRACK</h2>
+
+Household intelligence platform.
+
+<b>STATUS</b>
+<br>
+🟢 ACTIVE DEVELOPMENT
+
+<br><br>
+
+<b>CORE SYSTEMS</b>
+
+<br><br>
+
+💧 Water  
+🥛 Milk  
+💰 Finance  
+📊 Analytics  
+🤖 Flow AI  
+
+<br><br>
+
+<b>STACK</b>
+
+<br>
+
+Kotlin • Firebase • AI
 
 </td>
 
-<td align="center" width="180">
+<td width="50%" valign="top">
 
-### 11+
+<h2>🍽️ CARVO POS</h2>
 
-Stars
+Restaurant operations platform.
+
+<b>STATUS</b>
+<br>
+🟢 ACTIVE DEVELOPMENT
+
+<br><br>
+
+<b>CORE SYSTEMS</b>
+
+<br><br>
+
+🧾 POS  
+📦 Inventory  
+📊 Analytics  
+💳 Finance  
+👥 Staff  
+📈 Reports  
+
+<br><br>
+
+<b>STACK</b>
+
+<br>
+
+Next.js • React • PostgreSQL • Supabase
 
 </td>
 
-<td align="center" width="180">
-
-### 4
-
-Achievements
-
-</td>
-
-<td align="center" width="180">
-
-### ∞
-
-Ideas
-
-</td>
 </tr>
 </table>
-
-</div>
