@@ -1,45 +1,94 @@
 <div align="center">
 
-# 👋 Hey, I'm Aniket Patil
+<img src="https://github.com/Aniketpatil2415/Aniketpatil2415/blob/main/Banner.png" width="100%" />
 
-### Founder @ Fusion Byte • Software Developer • AI & Full-Stack Builder
+# 👋 Hi, I'm Aniket Patil
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=Building+real-world+software+with+code.;Exploring+AI%2C+Full-Stack+%26+Android.;Turning+ideas+into+working+products.;Welcome+to+my+GitHub+%F0%9F%91%8B" />
+### Founder of Fusion Byte • Software Developer • AI & Full-Stack Enthusiast
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=2800&pause=900&color=2563EB&center=true&vCenter=true&width=750&lines=Building+real-world+software+products;Exploring+AI+%26+LLM+Applications;Full-Stack+%7C+Android+%7C+Cloud;Turning+ideas+into+working+software" />
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Aniketpatil2415&label=Profile%20Views&color=2563EB&style=flat)](https://github.com/Aniketpatil2415)
-[![GitHub followers](https://img.shields.io/github/followers/Aniketpatil2415?label=Followers&style=flat&color=2563EB)](https://github.com/Aniketpatil2415?tab=followers)
-[![GitHub Stars](https://img.shields.io/github/stars/Aniketpatil2415?label=Total%20Stars&style=flat&color=2563EB)](https://github.com/Aniketpatil2415?tab=repositories)
+<a href="https://github.com/Aniketpatil2415">
+<img src="https://komarev.com/ghpvc/?username=Aniketpatil2415&label=Profile%20Views&color=2563EB&style=flat-square" />
+</a>
+
+<a href="https://github.com/Aniketpatil2415?tab=followers">
+<img src="https://img.shields.io/github/followers/Aniketpatil2415?label=Followers&style=flat-square&color=2563EB" />
+</a>
+
+<a href="https://github.com/Aniketpatil2415?tab=repositories">
+<img src="https://img.shields.io/github/stars/Aniketpatil2415?label=Stars&style=flat-square&color=2563EB" />
+</a>
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-I'm **Aniket Patil**, a software developer and the founder of **Fusion Byte**.
+Hi, I'm **Aniket Patil**, a software developer and the founder of **Fusion Byte**.
 
-I enjoy building practical software products that solve real problems rather than just creating demo projects.
+I enjoy building software that solves real problems, experimenting with new technologies, and turning ideas into working products.
 
-Currently exploring and building with:
+I'm particularly interested in:
 
-- 🤖 Artificial Intelligence & AI-powered applications
+- 🤖 Artificial Intelligence & LLM Applications
 - 🌐 Full-Stack Web Development
 - 📱 Android Development
 - 🔥 Firebase & Cloud Technologies
-- ⚡ Real-time applications
-- 🧠 System Design & Software Architecture
+- ⚡ Real-Time Applications
+- 🧠 Backend Architecture & System Design
+- 🎨 Modern UI/UX
 
-> **Build. Learn. Break. Fix. Repeat.**
+> **I don't just learn technologies. I build with them.**
 
 ---
 
-## 🧑‍💻 What I Build
+# 🚀 What I'm Building
+
+### 🏢 Fusion Byte
+
+**Fusion Byte** is my software development brand focused on building modern digital products, applications, and technology solutions.
+
+🌐 **Website:** [fusionbyte.tech](https://fusionbyte.tech)
+
+---
+
+### 💻 CARVO POS
+
+A modern Point of Sale ecosystem designed for cafés and restaurants.
+
+**Focus Areas**
+
+`POS` `Restaurant Management` `Analytics` `Inventory` `Reports` `Real-Time Systems`
+
+**Technology**
+
+`Next.js` `React` `Tailwind CSS` `PostgreSQL` `Supabase`
+
+---
+
+### 📱 Flow Track
+
+A household management and tracking application designed around everyday utilities and expenses.
+
+**Features**
+
+`Milk Tracking` `Water Tracking` `Expense Tracking` `Analytics` `Calendar` `AI`
+
+**Technology**
+
+`Kotlin` `Android` `Firebase`
+
+---
+
+### 🤖 Flow AI
+
+An AI assistant integrated into Flow Track.
+
+Flow AI is designed to understand application data and answer natural-language questions.
 
 ```text
-AI Applications       ███████████████████░░
-Full-Stack Systems    ██████████████████░░░
-Android Applications  █████████████████░░░░
-Backend Systems       ████████████████░░░░░
-UI / UX               ███████████████░░░░░░
+"1 Jan se 15 Sept 2026 tak mera total expense kitna hua?"
